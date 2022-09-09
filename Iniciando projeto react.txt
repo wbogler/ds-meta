@@ -1,0 +1,8 @@
+Iniciando um projeto react
+ yarn create vite frontend --template react-ts
+
+acessar a pasta e digitar 
+ yarn
+
+Para abrir a aplicação
+ yarn dev
